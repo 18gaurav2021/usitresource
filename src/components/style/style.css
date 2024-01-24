@@ -55,9 +55,6 @@
   --container-pb: 120px;
 }
 
-@import url("../../../file/jquery.fancybox.js.download");
-@import url("../../../file/progress-bar.js.download");
-
 /*
  * typography.scss
  * -----------------------------------------------
